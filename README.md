@@ -5,4 +5,4 @@ Most of the changing done to the original templates were done inline,although th
 
 The images used were edited in https://canva.com/ . this is to create uniformity in my images.I used the logo design template of 500px by 500px. Most of the images used were jpg files  and their backgrounds were removed using https://www.remove.bg/ before replacing them with a different background colour using canva.
 
-view it 
+view it hee:  https://xtric6.github.io/portfolio/
